@@ -546,6 +546,9 @@ tr:nth-child(odd){
     .servicio {
         grid-area: contain;
     }
+    .servicios .iconos {
+        padding-bottom: 10%;
+    }
     .contenerdor-campos {
         display: flex;
         flex-direction: column;
